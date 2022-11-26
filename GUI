@@ -1,3 +1,1 @@
-    MainSection:NewButton("Teleport Script", "Script to teleport you to people", function()
-        loadstring(game:HttpGet(('https://pastebin.com/raw/DfwzJ7vh'),true))()
-    end)
+loadstring(game:HttpGet(('https://pastebin.com/raw/DfwzJ7vh'),true))()
